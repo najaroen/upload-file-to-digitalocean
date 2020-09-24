@@ -1,2 +1,2 @@
 # upload-file-to-digitalocean
-การอัพโหลดไฟล์สู้ Space ของ Digitalocean
+การอัพโหลดไฟล์ไป Space ของ Digitalocean
